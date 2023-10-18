@@ -22,3 +22,17 @@ h1 {
   text-align: center;
   color: greenyellow;
 }
+
+@media all and (max-width: 768px) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
+
+@media all and (max-width:400px) {
+  body {
+    background-color: blue;
+    color: white;
+  }
+}
