@@ -4,8 +4,21 @@
   margin: 20px;
 }
 
+.column h2 {
+  color: rgb(12, 229, 73);
+}
+
 img {
   width: 300px;
   height: 300px;
   object-fit: cover;
+}
+
+body {
+  font-family: 'Young Serif', serif;
+}
+
+h1 {
+  text-align: center;
+  color: greenyellow;
 }
